@@ -1,0 +1,9 @@
+c:\users\vagrant\documents\visual studio 2015\Projects\LogTailer\LogTailer\bin\Debug\LogTailer.exe.config
+c:\users\vagrant\documents\visual studio 2015\Projects\LogTailer\LogTailer\bin\Debug\LogTailer.exe
+c:\users\vagrant\documents\visual studio 2015\Projects\LogTailer\LogTailer\bin\Debug\LogTailer.pdb
+c:\users\vagrant\documents\visual studio 2015\Projects\LogTailer\LogTailer\obj\Debug\LogTailer.Form1.resources
+c:\users\vagrant\documents\visual studio 2015\Projects\LogTailer\LogTailer\obj\Debug\LogTailer.Properties.Resources.resources
+c:\users\vagrant\documents\visual studio 2015\Projects\LogTailer\LogTailer\obj\Debug\LogTailer.csproj.GenerateResource.Cache
+c:\users\vagrant\documents\visual studio 2015\Projects\LogTailer\LogTailer\obj\Debug\LogTailer.exe
+c:\users\vagrant\documents\visual studio 2015\Projects\LogTailer\LogTailer\obj\Debug\LogTailer.pdb
+c:\users\vagrant\documents\visual studio 2015\Projects\LogTailer\LogTailer\obj\Debug\LogTailer.csprojResolveAssemblyReference.cache
